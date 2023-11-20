@@ -1,0 +1,33 @@
+
+*{
+  background-color: yellow
+}
+
+
+
+
+
+p{
+  color: blue;
+}
+
+ h2{
+   color: red
+ }
+i{
+  color: green
+}
+
+strong{
+  color: violet
+}
+p.firstparagraph{
+  color: blue
+}
+
+p.secondparagraph{
+  color: indigo
+}
+span{
+  color: green
+}
